@@ -1,3 +1,3 @@
 # ai_xox
 
-A new Flutter project.
+The Best XOX Game in the World written in flutter.
